@@ -1,0 +1,4 @@
+Comidas que formadas por alimentos.
+Primero las necesidades alimenticias
+Despues ajustar cada alimento multip`licado por un escalar para ser calorias exactas
+Formula de calculo de calorias
